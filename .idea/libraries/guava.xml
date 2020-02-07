@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="guava">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LHC_7954277/lib/guava.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

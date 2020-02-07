@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="BoyerMoore">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LHC_7954277/BoyerMoore/jar/BoyerMoore.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
