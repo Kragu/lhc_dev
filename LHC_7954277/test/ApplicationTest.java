@@ -36,10 +36,7 @@ int a;
     void test2(){
         LargeHadronCollider lhc = initLHC();
         assertEquals(25, lhc.getUsp1().getBatteryList().size());
-
-
-
-
+        assertEquals(25, lhc.getUsp2().getBatteryList().size());
     }
 
     private LargeHadronCollider initLHC(){
@@ -54,4 +51,6 @@ int a;
         lhc.setUsp2(usp2);
         return lhc;
     }
+
+    
 }
