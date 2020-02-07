@@ -26,8 +26,9 @@ public class USP {
     }
 
     public USP(){
+        this.batteryList=new ArrayList<>();
         for(int i=0;i<25;i++){
-            batteryList.add(new Battery());
+            this.batteryList.add(new Battery());
         }
     }
     //new
