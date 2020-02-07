@@ -30,4 +30,5 @@ public class USP {
             batteryList.add(new Battery());
         }
     }
+    //new
 }
