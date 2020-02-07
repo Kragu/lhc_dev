@@ -35,6 +35,8 @@ int a;
     @Test
     void test2(){
         LargeHadronCollider lhc = initLHC();
+        assertEquals(25, lhc.getUsp1().getBatteryList().size());
+
 
 
 
