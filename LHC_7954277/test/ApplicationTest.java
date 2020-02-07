@@ -39,6 +39,15 @@ int a;
         assertEquals(25, lhc.getUsp2().getBatteryList().size());
     }
 
+    @Order(3)
+    @Test
+    void test3(){
+
+    }
+
+
+
+
     private LargeHadronCollider initLHC(){
         LargeHadronCollider lhc=new LargeHadronCollider();
         Building building=new Building();
@@ -52,5 +61,7 @@ int a;
         return lhc;
     }
 
-    
+
+
+
 }
